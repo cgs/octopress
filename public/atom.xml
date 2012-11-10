@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Christopher Sepic]]></title>
+  <link href="http://sheltered-anchorage-4551.herokuapp.com/atom.xml" rel="self"/>
+  <link href="http://sheltered-anchorage-4551.herokuapp.com/"/>
+  <updated>2012-11-09T19:47:13-08:00</updated>
+  <id>http://sheltered-anchorage-4551.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[Christopher Sepic]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
