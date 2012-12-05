@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://sheltered-anchorage-4551.herokuapp.com/blog/archives/</loc>
-        <lastmod>2012-11-09T19:24:21-08:00</lastmod>
+        <loc>http://christophersepic.com/blog/2012/12/04/im-bad-with-names/</loc>
+        <lastmod>2012-12-04T19:22:34-08:00</lastmod>
     </url>
     <url>
-        <loc>http://sheltered-anchorage-4551.herokuapp.com/</loc>
-        <lastmod>2012-11-09T19:24:21-08:00</lastmod>
+        <loc>http://christophersepic.com/blog/archives/</loc>
+        <lastmod>2012-12-04T19:22:34-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://christophersepic.com/</loc>
+        <lastmod>2012-12-04T19:22:34-08:00</lastmod>
     </url>
 </urlset>
